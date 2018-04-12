@@ -1,4 +1,4 @@
-#Create convenient and impressive code comments 
+# Create convenient and impressive code comments 
 
 ## How to use: 
 
@@ -13,7 +13,7 @@
    // This is a Comment.
    ```
 
-   And will get:
+   Then you shall get:
 
    ```
    #--------------------------------------------------#

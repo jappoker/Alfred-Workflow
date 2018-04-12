@@ -1,4 +1,4 @@
-#Open Current Folder or File in Visual Studio Code
+# Open Current Folder or File in Visual Studio Code
 
 ## How to use
 
